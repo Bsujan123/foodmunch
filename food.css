@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/* # BANNER SECTION */
+#navitem1{
+  color: #323f4b;
+font-family: "Roboto";
+}
+#navitem2{
+    color: #323f4b;
+  font-family: "Roboto";
+}
+#navitem3{
+    color: #323f4b;
+  font-family: "Roboto";
+}
+.food-logo{
+    height:100px;
+    width:25;
+}
+.banner-section{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+    text-align:center;
+    border-radius:10px;
+    margin-bottom: 10px;
+}
+.banner-head{
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight:300;
+}
+.banner-para{
+  color: white;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight:300;
+}
+.button1{
+    color:white;
+    background-color:#d0b200;
+    height:45px;
+    width:130px;
+    border-radius:8px;
+    margin-right:10px;
+    border-width:0px;
+}
+.button2{
+    color:white;
+    background-color:transparent;
+    height:45px;
+    width:130px;
+    border-radius:8px;
+    border-width:1px;
+    border-color:#d0b200;
+    border-width:0px;
+}
+
+/* # WHY CHOOSE US section */
+.wcu-sec{
+  background-color: #f9fbfe
+}
+.wcu-head{
+  font-family:Roboto;
+  color:#183b56;
+  font-size:30px;
+  font-weight:700;
+}
+.wcu-para{
+  font-family:Roboto;
+  color:#5a7184;
+  font-size:20px;
+  font-weight:300;
+}
+.wcu-card{
+  text-align:center;
+  background-color:white;
+  border-style:solid;
+  border-radius:10px;
+  border-width:1px;
+  border-color:#e5eaf4;
+}
+.wcu-img{
+  height:130px;
+  width:130px;
+}
+.wcu-head{
+  font-family:Roboto;
+  color:#323f4b;
+  font-size:26px;
+  font-weight:500;
+}
+.wcu-para{
+  font-family:Roboto;
+  color:#7b8794;
+  font-size:22px;
+  font-weight:400;
+}
+
+
+/* # EXPLORE MENU SECTION */
+.explore-sec{
+  background-color:white;
+}
+.explore-head{
+  color:#183b56;
+  font-family:Roboto;
+  font-size:30px;
+  font-weight:700;
+}
+.menu-img{
+  border-radius:16px;
+}
+.menu-head{
+  color:#323f4b;
+  font-family:Roboto;
+  font-size:20px;
+  font-weight:500;
+  margin-top:24px;
+}
+.menu-but{
+  color:#d0b200;
+  font-family:Roboto;
+  font-size:15px;
+  font-weight:500;
+}
+.menu-item-card{
+  border-radius:16px;
+}
+
+
+/* #HEALTHY SECTION */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.health-sec{
+    background-color:#f9fbfe;
+}
+.health-img{
+    width:270px;
+}
+.health-head{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.health-para{
+    color:#5a7184;
+    font-family:Roboto;
+    font-size:18px;
+    font-weight:500;
+}
+.health-but{
+    color:white;
+    background-image:linear-gradient(#d0b200, #a58d00);
+    height:45px;
+    width:130px;
+    border-radius:8px;
+    margin-right: 10px;
+    border-width:0px;
+}
+
+
+
+.payment-card-img{
+  width: 50px;
+height: 50px;
+margin-right: 28px;
+}
+
+
+.thank-sec{
+  background-image:radial-gradient(#fff8db, #fae38c);
+}
+.thank-head{
+  color:#183b56;
+  font-family:"Roboto";
+  font-size:30px;
+  font-weight:700;
+}
+.thank-para{
+  color:#5a7184;
+  font-family:"Roboto";
+  font-size:17px;
+  font-weight:500;
+}
+.thank-img{
+  width:270px;
+  margin-bottom: 20px;
+}
+.thank-but{
+  color:white;
+  background-color:#d0b200;
+  height:40px;
+  width:150px;
+  border-radius:10px;
+  margin-right: 10px;
+}
+
+/* #FOLLOW US section */
+.follow-us-section {
+  background-color: white;
+}
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding:24px;
+}
+.icon {
+  color: #d0b200;
+  font-size: 35px;
+}
